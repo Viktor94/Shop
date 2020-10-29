@@ -135,7 +135,7 @@ sketch
 /coverage
 
 # production
-/build
+/frontend_/build
 
 # misc
 .DS_Store
